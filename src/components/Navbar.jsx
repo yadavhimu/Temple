@@ -47,12 +47,12 @@ const Navbar = () => {
           <button className="border-2 border-gray-400 w-20 h-8 text-gray-500 rounded-lg">
             English
           </button>
-          <button className="border-2 border-gray-400 w-20 h-8 rounded-lg  bg-orange-600 text-white">
+          {/* <button className="border-2 border-gray-400 w-20 h-8 rounded-lg  bg-orange-600 text-white">
             Login
-          </button>
+          </button> */}
           <img
             onClick={() => setVisible(true)}
-            src="menuiconlagana hai"
+            src="./images/menu_icon.png"
             className="w-5 cursor-pointer sm:hidden"
             alt=""
           />
@@ -70,7 +70,7 @@ const Navbar = () => {
             >
               <img
                 className="h-4 rotate-180"
-                src="dropdownicon lagana hai"
+                src=".images/dropdown_icon.png"
                 alt=""
               />
               <p>Back</p>
