@@ -6,7 +6,7 @@ const TempleMid = () => {
     <div>
       <div className=" lg:flex justify-between p-4 mt-14">
         <Link to="/premmandir">
-        <div className="w-[296px]">
+        <div className="lg:w-[296px]">
           <img className="rounded-lg" src="./images/Premmandir.jpeg" alt="" />
           <div>
             <p className="text-2xl font-medium mt-4">Prem Mandir</p>
@@ -21,7 +21,7 @@ const TempleMid = () => {
         </div>
         </Link>
         <Link to='/bankebihari'>
-        <div className="w-[296px]">
+        <div className=" lg:w-[296px]">
           <img className="rounded-lg" src="./images/Bankebihari.jpeg" alt="" />
           <div>
             <p className="text-2xl font-medium mt-4">Banke Bihari Temple</p>
@@ -35,7 +35,7 @@ const TempleMid = () => {
         </div>
         </Link>
         <Link to='/kalabhairav'>
-        <div className="w-[296px]">
+        <div className="lg:w-[296px]">
           <img className="rounded-lg" src="./images/Kalabhairav.jpeg" alt="" />
           <div>
             <p className="text-2xl font-medium mt-4">Shri Kalabhairav Temple</p>
@@ -48,7 +48,7 @@ const TempleMid = () => {
         </div>
         </Link>
         <Link to="/takshkeshwer">
-        <div className="w-[296px]">
+        <div className="lg:w-[296px]">
           <img
             className="rounded-lg"
             src="./images/Takshakeshwar.jpeg"
@@ -70,7 +70,7 @@ const TempleMid = () => {
       </div>
       <div className=" lg:flex justify-between p-4 mt-14">
         <Link to="/glass">
-        <div className="w-[296px]">
+        <div className="lg:w-[296px]">
           <img className="rounded-lg" src="./images/Glass.jpeg" alt="" />
           <div>
             <p className="text-2xl font-medium mt-4">Glass Temple</p>
@@ -84,7 +84,7 @@ const TempleMid = () => {
         </div>
         </Link>
         <Link to='/chintaman'>
-        <div className="w-[296px]">
+        <div className="lg:w-[296px]">
           <img className="rounded-lg" src="./images/Chintaman.png" alt="" />
           <div>
             <p className="text-2xl font-medium mt-4">Chintaman Ganesh Temple</p>
@@ -97,7 +97,7 @@ const TempleMid = () => {
         </div>
         </Link>
         <Link to='/iskcon'>
-        <div className="w-[296px]">
+        <div className="lg:w-[296px]">
           <img className="rounded-lg" src="./images/ISKCON.jpeg" alt="" />
           <div>
             <p className="text-2xl font-medium mt-4">Iskcon Temple</p>
@@ -111,7 +111,7 @@ const TempleMid = () => {
         </div>
         </Link>
         <Link to='/vrindavan'>
-        <div className="w-[296px]">
+        <div className="lg:w-[296px]">
           <img className="rounded-lg" src="./images/Veni.jpeg" alt="" />
           <div>
             <p className="text-2xl font-medium mt-4">

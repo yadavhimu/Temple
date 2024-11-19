@@ -36,7 +36,7 @@ const Kalabhairav = () => {
         <p className="flex justify-center text-4xl font-bold">
           Shri Kalabhairav ​​Temple
         </p>
-        <p className="ml-44 mt-4 text-xl text-gray-600">
+        <p className="lg:ml-44 mt-4 text-xl text-gray-600">
           {" "}
           Shri Kalabhairav is the guardian of Ujjain . Ujjain, Madhya Pradesh,
           India

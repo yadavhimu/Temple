@@ -36,7 +36,7 @@ const BankeBihari = () => {
         <p className="flex justify-center text-4xl font-bold">
           Banke Bihari Temple
         </p>
-        <p className="ml-40 mt-4 text-xl text-gray-600">
+        <p className="lg:ml-40 mt-4 text-xl text-gray-600">
           {" "}
           The most revered abode of Shri Krishna. Vrindavan, Uttar Pradesh,
           India
@@ -97,7 +97,7 @@ const BankeBihari = () => {
       </div>
       <div className="lg:px-[14vw]  mt-10 ">
         <p className="text-xl font-bold mt-8 underline">Temple Timings</p>
-        <div className="flex ml-5 justify-between">
+        <div className="lg:flex ml-5 justify-between">
           <div className="mt-5 flex">
             <SlCalender className="mt-4 text-yellow-700 text-2xl" />
             <div className=" ml-4">
@@ -115,7 +115,7 @@ const BankeBihari = () => {
             </div>
           </div>
         </div>
-        <div className="flex ml-5 justify-between">
+        <div className="lg:flex ml-5 justify-between">
           <div className="mt-5 flex">
             <SlCalender className="mt-4 text-yellow-700 text-2xl" />
             <div className=" ml-4">

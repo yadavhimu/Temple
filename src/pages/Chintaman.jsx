@@ -32,7 +32,7 @@ const Chintaman = () => {
         <p className="flex justify-center text-4xl font-bold">
           Chintaman Ganesh Temple
         </p>
-        <p className="ml-44 mt-4 text-xl text-gray-600">
+        <p className="lg:ml-44 mt-4 text-xl text-gray-600">
           {" "}
           3 Forms of Lord Ganesha resides here. . Ujjain, Madhya Pradesh, India
         </p>

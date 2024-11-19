@@ -30,7 +30,7 @@ const Glass = () => {
 
       <div className="lg:px-[14vw] mt-10">
         <p className="flex justify-center text-4xl font-bold">Glass Temple</p>
-        <p className="ml-10 mt-4 text-xl text-gray-600">
+        <p className="lg:ml-10 mt-4 text-xl text-gray-600">
           {" "}
           This Jain temple is frequently visited by people across faiths and
           religions .Indore, Madhya Pradesh, India

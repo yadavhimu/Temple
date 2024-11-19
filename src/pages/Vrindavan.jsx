@@ -32,7 +32,7 @@ const Vrindavan = () => {
         <p className="flex justify-center text-4xl font-bold">
           Vrindavan Chandrodaya Temple
         </p>
-        <p className="ml-44 mt-4 text-xl text-gray-600">
+        <p className="lg:ml-44 mt-4 text-xl text-gray-600">
           {" "}
           The tallest religious structure in the world! . Vrindavan, Uttar
           Pradesh, India

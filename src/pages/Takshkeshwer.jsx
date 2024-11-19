@@ -36,7 +36,7 @@ const Takshkeshwer = () => {
         <p className="flex justify-center text-4xl font-bold">
           Takshkeshwer Nath Temple
         </p>
-        <p className="ml-44 mt-4 text-xl text-gray-600">
+        <p className="lg:ml-44 mt-4 text-xl text-gray-600">
           {" "}
           This place in Prayagraj is known as "Bada Shivala". Prayagraj, Uttar
           Pradesh, India
