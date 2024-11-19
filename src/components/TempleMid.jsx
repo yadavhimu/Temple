@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const TempleMid = () => {
   return (
     <div>
-      <div className=" flex justify-between p-4 mt-14">
+      <div className=" lg:flex justify-between p-4 mt-14">
         <Link to="/premmandir">
         <div className="w-[296px]">
           <img className="rounded-lg" src="./images/Premmandir.jpeg" alt="" />
@@ -68,7 +68,7 @@ const TempleMid = () => {
         </div>
         </Link>
       </div>
-      <div className=" flex justify-between p-4 mt-14">
+      <div className=" lg:flex justify-between p-4 mt-14">
         <Link to="/glass">
         <div className="w-[296px]">
           <img className="rounded-lg" src="./images/Glass.jpeg" alt="" />

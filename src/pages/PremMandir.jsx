@@ -30,7 +30,7 @@ const PremMandir = () => {
 
       <div className="lg:px-[14vw] mt-10">
         <p className="flex justify-center text-4xl font-bold">Prem Mandir</p>
-        <p className="ml-24 mt-4 text-xl text-gray-600">
+        <p className="lg:ml-24 mt-4 text-xl text-gray-600">
           {" "}
           Built in a vast area of ​​55 acres, Prem Mandir is famous all over the
           world. Vrindavan, Uttar Pradesh, India{" "}
@@ -100,7 +100,7 @@ const PremMandir = () => {
       </div>
       <div className="lg:px-[14vw]  mt-10 ">
         <p className="text-xl font-bold mt-8 underline">Temple Timings</p>
-        <div className="flex ml-5 justify-between">
+        <div className="sm:flex ml-5 justify-between">
             <div className="mt-5 flex">
             <SlCalender className="mt-4 text-yellow-700 text-2xl" />
                 <div className=" ml-4">
@@ -116,7 +116,7 @@ const PremMandir = () => {
                 </div>
             </div>
         </div>
-        <div className="flex ml-5 justify-between">
+        <div className="sm:flex ml-5 justify-between">
             <div className="mt-5 flex">
             <SlCalender className="mt-4 text-yellow-700 text-2xl" />
                 <div className=" ml-4">

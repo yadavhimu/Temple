@@ -5,12 +5,12 @@ const LowerSection = () => {
   return (
     <div>
       <div>
-        <p className="flex justify-center text-4xl mt-20 font-bold">
+        <p className="flex justify-center text-2xl lg:text-4xl mt-10 lg:mt-20 font-bold">
           Read Aarti, Chalisa, Mantra and Ayurvedic & Home Remedies <br /> and
           everything around Sanatan Dharma.
         </p>
       </div>
-      <div className="flex justify-evenly gap-10 mt-20">
+      <div className="lg:flex justify-evenly gap-10 mt-10 lg:mt-20">
         <div>
           <img className="w-full h-[55%] rounded-md" src="./images/aarti.jpeg" alt="" />
           <div>
