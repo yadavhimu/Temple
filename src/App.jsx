@@ -14,6 +14,8 @@ import Glass from './pages/Glass'
 import Chintaman from './pages/Chintaman'
 import Iskcon from './pages/Iskcon'
 import Vrindavan from './pages/Vrindavan'
+import Aarti from './pages/Aarti'
+import Aambe from './pages/Aambe'
 
 const App = () => {
   return (
@@ -32,6 +34,8 @@ const App = () => {
         <Route path='/chintaman' element={<Chintaman/>}/>
         <Route path='/iskcon' element={<Iskcon/>}/>
         <Route path='/vrindavan' element={<Vrindavan/>}/>
+        <Route path='/aarti' element={<Aarti/>}/>
+        <Route path='/aambe' element={<Aambe/>}/>
       </Routes>
       <Footer/>
     </div>

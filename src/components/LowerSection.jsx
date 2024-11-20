@@ -20,7 +20,7 @@ const LowerSection = () => {
             Find Complete lyrics of all the famous Aartis and easily worship
             your beloved God.
           </p>
-          <Link to='/puja' className="cursor-pointer text-orange-600"> Read All</Link>
+          <Link to='/aarti' className="cursor-pointer text-orange-600"> Read All</Link>
 
           </div>
           
