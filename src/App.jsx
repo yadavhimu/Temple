@@ -16,6 +16,8 @@ import Iskcon from './pages/Iskcon'
 import Vrindavan from './pages/Vrindavan'
 import Aarti from './pages/Aarti'
 import Aambe from './pages/Aambe'
+import Bhai_dooj from './pages/Bhai_dooj'
+import Dhanteras from './pages/Dhanteras'
 
 const App = () => {
   return (
@@ -36,6 +38,8 @@ const App = () => {
         <Route path='/vrindavan' element={<Vrindavan/>}/>
         <Route path='/aarti' element={<Aarti/>}/>
         <Route path='/aambe' element={<Aambe/>}/>
+        <Route path='/bhaidooj' element={<Bhai_dooj/>}/>
+        <Route path='/dhanteras' element={<Dhanteras/>}/>
       </Routes>
       <Footer/>
     </div>

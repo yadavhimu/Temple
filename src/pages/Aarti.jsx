@@ -18,14 +18,14 @@ const Aarti = () => {
             <p className='mt-1 text-gray-600'>अम्बे गौरी की आरती का पाठ करने से भक्तों के जीवन में शांति, समृद्धि और सुख-शांति का वास होता है।</p>
         </div>
         </Link>
-        <Link to='/aambe'>
+        <Link to='/bhaidooj'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./aarti/Bhai_dooj.jpeg" alt="" />
             <p className='text-xl mt-1 font-bold'>भाई दूज आरती</p>
             <p className='mt-1 text-gray-600'>भाई दूज आरती का महत्व क्या है? जानें इस आरती के जरिए भाई की लंबी उम्र और समृद्धि की प्रार्थना कैसे करें! इस खास दिन की विधि और इसके अद्भुत प्रभावों के बारे में जानें।</p>
         </div>
         </Link>
-        <Link to='/aambe'>
+        <Link to='/dhanteras'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./aarti/Dhanteras.jpeg" alt="" />
             <p className='text-xl mt-1 font-bold'>धनतेरस आरती</p>
