@@ -32,28 +32,28 @@ const Aarti = () => {
             <p className='mt-1 text-gray-600'>इस पावन दिन पर माँ लक्ष्मी और भगवान धन्वंतरि की आरती के साथ घर में सुख-समृद्धि और स्वास्थ्य का आशीर्वाद पाएं।</p>
         </div>
         </Link>
-        <Link to='/aambe'>
+        <Link to='/diwali'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./aarti/Diwali.jpeg" alt="" />
             <p className='text-xl mt-1 font-bold'>दीपावली विशेष मंत्र एवं आरती</p>
             <p className='mt-1 text-gray-600'>दीपावली पर जानें खास मंत्र और आरती! इस दिवाली अपने घर में लाएं खुशियों और समृद्धि का उजाला!</p>
         </div>
         </Link>
-        <Link to='/aambe'>
+        <Link to='/ganesh'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./aarti/ganeshji.png" alt="" />
             <p className='text-xl mt-1 font-bold'>श्री गणेश आरती</p>
             <p className='mt-1 text-gray-600'>गणपति बप्पा की कृपा से मनोबल बढ़ता है, जीवन में शांति और समृद्धि आती है, तथा सभी कार्य सिद्ध होते हैं।</p>
         </div>
         </Link>
-        <Link to='/aambe'>
+        <Link to='/govardhan'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./aarti/Gowardhan.jpeg" alt="" />
             <p className='text-xl mt-1 font-bold'>गोवर्धन पूजा आरती</p>
             <p className='mt-1 text-gray-600'>गोवर्धन पूजा आरती का महत्व क्या है और यह किस तरह आपके जीवन में सुख और समृद्धि ला सकती है? जानें इस आरती में छिपे भक्ति के भाव और भगवान श्रीकृष्ण की महिमा, जो आपके घर में शांति और खुशहाली का संचार करेगी।</p>
         </div>
         </Link>
-        <Link to='/aambe'>
+        <Link to='/hanuman'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./aarti/hanumanji.png" alt="" />
             <p className='text-xl mt-1 font-bold'>हनुमान जी की आरती</p>

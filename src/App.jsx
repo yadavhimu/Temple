@@ -18,6 +18,10 @@ import Aarti from './pages/Aarti'
 import Aambe from './pages/Aambe'
 import Bhai_dooj from './pages/Bhai_dooj'
 import Dhanteras from './pages/Dhanteras'
+import Diwali from './pages/Diwali'
+import Ganesh from './pages/Ganesh'
+import Govardhan from './pages/Govardhan'
+import Hanuman from './pages/Hanuman'
 
 const App = () => {
   return (
@@ -40,6 +44,10 @@ const App = () => {
         <Route path='/aambe' element={<Aambe/>}/>
         <Route path='/bhaidooj' element={<Bhai_dooj/>}/>
         <Route path='/dhanteras' element={<Dhanteras/>}/>
+        <Route path='/diwali' element={<Diwali/>}/>
+        <Route path='/ganesh' element={<Ganesh/>}/>
+        <Route path='/govardhan' element={<Govardhan/>}/>
+        <Route path='/hanuman' element={<Hanuman/>}/>
       </Routes>
       <Footer/>
     </div>
