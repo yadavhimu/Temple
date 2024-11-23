@@ -22,6 +22,9 @@ import Diwali from './pages/Diwali'
 import Ganesh from './pages/Ganesh'
 import Govardhan from './pages/Govardhan'
 import Hanuman from './pages/Hanuman'
+import Kali from './pages/Kali'
+import Vishnu from './pages/Vishnu'
+import Jagdish from './pages/Jagdish'
 
 const App = () => {
   return (
@@ -48,6 +51,9 @@ const App = () => {
         <Route path='/ganesh' element={<Ganesh/>}/>
         <Route path='/govardhan' element={<Govardhan/>}/>
         <Route path='/hanuman' element={<Hanuman/>}/>
+        <Route path='/kali' element={<Kali/>}/>
+        <Route path='/vishnu' element={<Vishnu/>}/>
+        <Route path='/jagdish' element={<Jagdish/>}/>
       </Routes>
       <Footer/>
     </div>

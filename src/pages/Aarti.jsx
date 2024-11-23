@@ -62,21 +62,21 @@ const Aarti = () => {
         </Link>
       </div>
       <div className='flex gap-3 mt-10'>
-        <Link to='/aambe'>
+        <Link to='/kali'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./aarti/jagdambe.png" alt="" />
             <p className='text-xl mt-1 font-bold'>काली माता की आरती</p>
             <p className='mt-1 text-gray-600'>आरती का गान माता काली की कृपा प्राप्त करने के लिए किया जाता है</p>
         </div>
         </Link>
-        <Link to='/aambe'>
+        <Link to='/vishnu'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./aarti/jagdish.png" alt="" />
             <p className='text-xl mt-1 font-bold'>श्री विष्णु जी आरती</p>
             <p className='mt-1 text-gray-600'>विष्णु जी की कृपा से सभी कष्ट दूर होते हैं और जीवन में सौभाग्य की प्राप्ति होती है।</p>
         </div>
         </Link>
-        <Link to='/aambe'>
+        <Link to='/jagdish'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./aarti/jai_jagdish.jpeg" alt="" />
             <p className='text-xl mt-1 font-bold'>ॐ जय जगदीश हरे आरती</p>
