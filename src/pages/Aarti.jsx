@@ -83,7 +83,7 @@ const Aarti = () => {
             <p className='mt-1 text-gray-600'>अनुराधा पौडवाल द्वारा गाए गए 'ॐ जय जगदीश हरे' भजन को सुनें। इस आरती के सुंदर बोल पढ़ें और भक्तिमय प्रार्थना में डूब जाएं।</p>
         </div>
         </Link>
-        <Link to='/aambe'>
+        <Link to='/suryadev'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./aarti/kashyapnandan.png" alt="" />
             <p className='text-xl mt-1 font-bold'>सूर्यदेव आरती</p>

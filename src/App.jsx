@@ -25,6 +25,7 @@ import Hanuman from './pages/Hanuman'
 import Kali from './pages/Kali'
 import Vishnu from './pages/Vishnu'
 import Jagdish from './pages/Jagdish'
+import Suryadev from './pages/Suryadev'
 
 const App = () => {
   return (
@@ -54,6 +55,7 @@ const App = () => {
         <Route path='/kali' element={<Kali/>}/>
         <Route path='/vishnu' element={<Vishnu/>}/>
         <Route path='/jagdish' element={<Jagdish/>}/>
+        <Route path='/suryadev' element={<Suryadev/>}/>
       </Routes>
       <Footer/>
     </div>
