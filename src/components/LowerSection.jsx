@@ -33,7 +33,7 @@ const LowerSection = () => {
             
             You Will get complete Chalisa of all the deities. Read Chalisa during the pooja.
           </p>
-          <Link to='/' className="cursor-pointer text-orange-600"> Read All</Link>
+          <Link to='/chalisa' className="cursor-pointer text-orange-600"> Read All</Link>
 
           </div>
          

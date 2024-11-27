@@ -26,6 +26,10 @@ import Kali from './pages/Kali'
 import Vishnu from './pages/Vishnu'
 import Jagdish from './pages/Jagdish'
 import Suryadev from './pages/Suryadev'
+import Kunj from './pages/Kunj'
+import Lakshmi from './pages/Lakshmi'
+import Shivfast from './pages/Shivfast'
+import Chalisa from './pages/Chalisa'
 
 const App = () => {
   return (
@@ -56,6 +60,10 @@ const App = () => {
         <Route path='/vishnu' element={<Vishnu/>}/>
         <Route path='/jagdish' element={<Jagdish/>}/>
         <Route path='/suryadev' element={<Suryadev/>}/>
+        <Route path='/kunj' element={<Kunj/>}/>
+        <Route path='/lakshmi' element={<Lakshmi/>}/>
+        <Route path='/shivfast' element={<Shivfast/>}/>
+        <Route path='/chalisa' element={<Chalisa/>}/>
       </Routes>
       <Footer/>
     </div>

@@ -90,21 +90,21 @@ const Aarti = () => {
             <p className='mt-1 text-gray-600'>यह आरती हर सुबह की जाती है, जिससे दिन का आरंभ शुभ और उन्नति प्रदान करने वाला हो। </p>
         </div>
         </Link>
-        <Link to='/aambe'>
+        <Link to='/kunj'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./aarti/kunjbihari.png" alt="" />
             <p className='text-xl mt-1 font-bold'>श्री कुंजबिहारी आरती</p>
             <p className='mt-1 text-gray-600'>यह आरती विशेष रूप से उन भक्तों के लिए लाभकारी है जो प्रेम, आनंद और शांति की खोज में हैं।</p>
         </div>
         </Link>
-        <Link to='/aambe'>
+        <Link to='/lakshmi'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./aarti/lakshmimata.png" alt="" />
             <p className='text-xl mt-1 font-bold'>लक्ष्मी जी की आरती</p>
             <p className='mt-1 text-gray-600'>मां लक्ष्मी की आरती से सकारात्मक ऊर्जा और सौभाग्य की प्राप्ति होती है।</p>
         </div>
         </Link>
-        <Link to='/aambe'>
+        <Link to='/shivfast'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./aarti/monday.png" alt="" />
             <p className='text-xl mt-1 font-bold'>सोमवार व्रत आरती | ॐ जय शिव ओंकारा</p>
@@ -112,7 +112,7 @@ const Aarti = () => {
         </div>
         </Link>
       </div>
-      <div className='flex gap-3 mt-10'>
+      {/* <div className='flex gap-3 mt-10'>
         <Link to='/aambe'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./aarti/Ram_Aarti.jpeg" alt="" />
@@ -162,7 +162,7 @@ const Aarti = () => {
             <p className='mt-1 text-gray-600'>श्रीकृष्ण आरती का नियमित पाठ भक्तों को उनकी कृपा प्राप्त करने, मन की शांति और जीवन में समृद्धि की ओर ले जाता है।</p>
         </div>
         </Link>
-      </div>
+      </div> */}
     </div>
   )
 }

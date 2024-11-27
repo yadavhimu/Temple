@@ -38,9 +38,11 @@ const Suryadev = () => {
         <p className="mt-5 text-xl font-bold text-gray-600">
           जय जय कश्यप-नन्दन,
         </p>
+
         <p className="mt-5 text-xl font-bold text-gray-600">
           ॐ जय अदिति नन्दन।
         </p>
+        <br />
         <p className="mt-5 text-xl font-medium text-gray-600">
           त्रिभुवन - तिमिर - निकंदन,
         </p>
@@ -65,6 +67,7 @@ const Suryadev = () => {
         <p className="mt-5 text-xl font-bold text-gray-600">
           ॐ जय अदिति नन्दन।
         </p>
+        <br />
         <p className="mt-5 text-xl font-medium text-gray-600">
           सप्त-अश्वरथ राजित,
         </p>
@@ -89,6 +92,7 @@ const Suryadev = () => {
         <p className="mt-5 text-xl font-bold text-gray-600">
           ॐ जय अदिति नन्दन।
         </p>
+        <br />
         <p className="mt-5 text-xl font-medium text-gray-600">
           सकल - सुकर्म - प्रसविता,
         </p>
@@ -111,6 +115,50 @@ const Suryadev = () => {
           जय जय कश्यप-नन्दन,
         </p>
         <p className="mt-5 text-xl font-bold text-gray-600">
+          ॐ जय अदिति नन्दन।
+        </p>
+        <br />
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          नेत्र-व्याधि हर सुरवर,
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">भू-पीड़ा-हारी।</p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          वृष्टि विमोचन संतत,
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          {" "}
+          परहित व्रतधारी॥
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          {" "}
+          सूर्यदेव करुणाकर,
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">अब करुणा कीजै।</p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          हर अज्ञान-मोह सब,
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          {" "}
+          तत्त्वज्ञान दीजै॥
+        </p>
+        <p className="mt-5 text-xl font-bold text-gray-600">
+          जय जय कश्यप-नन्दन,
+        </p>
+        <p className="mt-5 text-xl font-bold text-gray-600">
+          ॐ जय अदिति नन्दन।
+        </p>
+        <br />
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          जय जय कश्यप-नन्दन,
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          ॐ जय अदिति नन्दन।
+        </p>
+        <p className="mt-5 text-xl font-bold text-gray-600">
+          जय जय कश्यप-नन्दन,
+        </p>
+        <p className="mt-5 text-xl font-bold text-gray-600">
+          {" "}
           ॐ जय अदिति नन्दन।
         </p>
       </div>
