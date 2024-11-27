@@ -65,6 +65,54 @@ const Suryadev = () => {
         <p className="mt-5 text-xl font-bold text-gray-600">
           ॐ जय अदिति नन्दन।
         </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          सप्त-अश्वरथ राजित,
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">एक चक्रधारी।</p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          दु:खहारी, सुखकारी,
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">मानस-मल-हारी॥</p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          सुर - मुनि - भूसुर - वन्दित,
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">विमल विभवशाली।</p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          अघ-दल-दलन दिवाकर,
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          दिव्य किरण माली॥
+        </p>
+        <p className="mt-5 text-xl font-bold text-gray-600">
+          जय जय कश्यप-नन्दन,
+        </p>
+        <p className="mt-5 text-xl font-bold text-gray-600">
+          ॐ जय अदिति नन्दन।
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          सकल - सुकर्म - प्रसविता,
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">सविता शुभकारी।</p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          विश्व-विलोचन मोचन,
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">भव-बन्धन भारी॥</p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          कमल-समूह विकासक,
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          नाशक त्रय तापा।
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          सेवत सहज हरत अति
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">मनसिज-संतापा॥</p>
+        <p className="mt-5 text-xl font-bold text-gray-600">
+          जय जय कश्यप-नन्दन,
+        </p>
+        <p className="mt-5 text-xl font-bold text-gray-600">
+          ॐ जय अदिति नन्दन।
+        </p>
       </div>
     </div>
   );
