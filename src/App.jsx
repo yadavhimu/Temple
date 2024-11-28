@@ -30,10 +30,12 @@ import Kunj from './pages/Kunj'
 import Lakshmi from './pages/Lakshmi'
 import Shivfast from './pages/Shivfast'
 import Chalisa from './pages/Chalisa'
+import ScrollToTop from './components/ScrollToTop'
 
 const App = () => {
   return (
     <div className='px-4 sm:px-[5vw] md:px-[7vw] lg:px-[2vw]'>
+      <ScrollToTop/>
       <Navbar/>
       <Routes>
         <Route path='/' element={<Home/>}/>
