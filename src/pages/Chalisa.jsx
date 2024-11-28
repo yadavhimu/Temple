@@ -6,10 +6,10 @@ const Chalisa = () => {
       <div className='w-full relative mt-5 '>
         <img className='w-full' src="./chalisa/Chalisa_banner.jpeg" alt="" />
         <div className=''>
-            <p className='bottom-10 ml-20 absolute text-6xl text-white'>चालीसा</p>
+            <p className='bottom-2 lg:bottom-10 ml-5 font-bold lg:ml-20 absolute lg:text-6xl text-white'>चालीसा</p>
         </div>
       </div>
-      <div className='flex gap-3 mt-10'>
+      <div className='flex-col lg:grid lg:grid-cols-[1fr_1fr_1fr_1fr_1fr_1fr_1fr] grid grid-cols-[1fr_1fr] lg:gap-3 gap-0 mt-10'>
         <Link to='/aambe'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./chalisa/1.png" alt="" />
@@ -60,7 +60,7 @@ const Chalisa = () => {
         </div>
         </Link>
       </div>
-      <div className='flex gap-3 mt-10'>
+      <div className='flex-col lg:grid lg:grid-cols-[1fr_1fr_1fr_1fr_1fr_1fr_1fr] grid grid-cols-[1fr_1fr] lg:gap-3 gap-0 mt-10'>
         <Link to='/aambe'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./chalisa/8.png" alt="" />

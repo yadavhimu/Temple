@@ -7,10 +7,10 @@ const Aarti = () => {
       <div className='w-full relative mt-5 '>
         <img className='w-full' src="./aarti/Aarti_Banner.jpeg" alt="" />
         <div className=''>
-            <p className='bottom-10 ml-20 absolute text-6xl text-white'>आरतियां</p>
+            <p className=' bottom-4 lg:bottom-10 ml-5 lg:ml-20 absolute lg:text-6xl text-white'>आरतियां</p>
         </div>
       </div>
-      <div className='flex gap-3 mt-10'>
+      <div className=' flex-col lg:grid lg:grid-cols-[1fr_1fr_1fr_1fr_1fr_1fr_1fr] grid grid-cols-[1fr_1fr] lg:gap-3 gap-0 mt-10'>
         <Link to='/aambe'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./aarti/Amba.jpeg" alt="" />
@@ -61,7 +61,7 @@ const Aarti = () => {
         </div>
         </Link>
       </div>
-      <div className='flex gap-3 mt-10'>
+      <div className='flex-col lg:grid lg:grid-cols-[1fr_1fr_1fr_1fr_1fr_1fr_1fr] grid grid-cols-[1fr_1fr] lg:gap-3 gap-0 mt-10'>
         <Link to='/kali'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./aarti/jagdambe.png" alt="" />
