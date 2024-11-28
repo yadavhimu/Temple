@@ -31,6 +31,8 @@ import Lakshmi from './pages/Lakshmi'
 import Shivfast from './pages/Shivfast'
 import Chalisa from './pages/Chalisa'
 import ScrollToTop from './components/ScrollToTop'
+import Chalisalakshmi from './pages/Chalisalakshmi'
+
 
 const App = () => {
   return (
@@ -66,6 +68,7 @@ const App = () => {
         <Route path='/lakshmi' element={<Lakshmi/>}/>
         <Route path='/shivfast' element={<Shivfast/>}/>
         <Route path='/chalisa' element={<Chalisa/>}/>
+        <Route path='/chalisalakshmi' element={<Chalisalakshmi/>}/>
       </Routes>
       <Footer/>
     </div>

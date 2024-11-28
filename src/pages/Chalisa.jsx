@@ -10,7 +10,7 @@ const Chalisa = () => {
         </div>
       </div>
       <div className='flex-col lg:grid lg:grid-cols-[1fr_1fr_1fr_1fr_1fr_1fr_1fr] grid grid-cols-[1fr_1fr] lg:gap-3 gap-0 mt-10'>
-        <Link to='/aambe'>
+        <Link to='/chalisalakshmi'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./chalisa/1.png" alt="" />
             <p className='text-xl mt-1 font-bold'>महालक्ष्मी चालीसा</p>
