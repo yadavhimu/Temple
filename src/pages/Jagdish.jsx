@@ -5,7 +5,7 @@ const Jagdish = () => {
     <div className="lg:px-[9vw]">
       <div>
         <img
-          className="w-full h-96"
+          className="w-full lg:h-96"
           src="./images/jai_jagdish_banner.jpeg"
           alt=""
         />

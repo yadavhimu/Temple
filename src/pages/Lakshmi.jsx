@@ -5,7 +5,7 @@ const Lakshmi = () => {
     <div className="lg:px-[9vw]">
       <div>
         <img
-          className="w-full h-96"
+          className="w-full lg:h-96"
           src="./images/Lakshmi_banner.jpeg"
           alt=""
         />

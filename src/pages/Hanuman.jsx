@@ -4,7 +4,7 @@ const Hanuman = () => {
   return (
     <div className="lg:px-[9vw]">
       <div>
-        <img className="w-full h-96" src="./images/Hanuman_banner.jpeg" alt="" />
+        <img className="w-full lg:h-96" src="./images/Hanuman_banner.jpeg" alt="" />
       </div>
       <div>
       <p className="mt-10 text-6xl font-extrabold">हनुमान जी की आरती</p>

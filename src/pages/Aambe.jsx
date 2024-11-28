@@ -4,10 +4,10 @@ const Aambe = () => {
   return (
     <div className="lg:px-[9vw]">
       <div>
-        <img className="w-full h-96" src="./images/Amba_banner.jpeg" alt="" />
+        <img className="w-full lg:h-96" src="./images/Amba_banner.jpeg" alt="" />
       </div>
       <div>
-        <p className="mt-10 text-6xl font-extrabold">अम्बे गौरी की आरती</p>
+        <p className="mt-10 text-5xl lg:text-6xl font-extrabold">अम्बे गौरी की आरती</p>
         <p className="mt-5 text-xl font-medium text-gray-600">
           अम्बे गौरी की आरती का पाठ करने से भक्तों के जीवन में शांति, समृद्धि और
           सुख-शांति का वास होता है।

@@ -4,10 +4,10 @@ const Bhai_dooj = () => {
   return (
     <div className="lg:px-[9vw]">
        <div>
-        <img className="w-full h-96" src="./images/Bhai_dooj_banner.jpeg" alt="" />
+        <img className="w-full lg:h-96" src="./images/Bhai_dooj_banner.jpeg" alt="" />
       </div>
       <div>
-      <p className="mt-10 text-6xl font-extrabold">भाई दूज आरती</p>
+      <p className="mt-10 text-5xl lg:text-6xl font-extrabold">भाई दूज आरती</p>
       <p className="mt-5 text-xl font-medium text-gray-600"> भाई दूज आरती का महत्व क्या है? जानें इस आरती के जरिए भाई की लंबी उम्र और समृद्धि की प्रार्थना कैसे करें! इस खास दिन की विधि और इसके अद्भुत प्रभावों के बारे में जानें।</p>
       <p className="mt-5 text-4xl font-medium text-gray-600">भाई दूज आरती | Bhai Dooj Aarti</p>
       <p className="mt-5 text-xl font-medium text-gray-600">भाई दूज का त्योहार हर साल कार्तिक मास की शुक्ल पक्ष की द्वितीया तिथि को मनाया जाता है। यह त्योहार बहन और भाई के पवित्र रिश्ते का प्रतीक है। इस दिन बहनें अपने भाइयों की लंबी उम्र और खुशहाली के लिए प्रार्थना करती हैं और भाई अपनी बहन को उपहार देते हैं।
