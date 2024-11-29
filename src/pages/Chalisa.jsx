@@ -17,7 +17,7 @@ const Chalisa = () => {
             <p className='mt-1 text-gray-600'>इस चालीसा का नियमित पाठ करने से व्यक्ति के जीवन में धन, वैभव और सफलता की वर्षा होती है।</p>
         </div>
         </Link>
-        <Link to='/bhaidooj'>
+        <Link to='/chalisavishnu'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./chalisa/2.png" alt="" />
             <p className='text-xl mt-1 font-bold'>विष्णु चालीसा</p>
