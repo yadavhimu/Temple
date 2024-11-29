@@ -24,7 +24,7 @@ const Chalisa = () => {
             <p className='mt-1 text-gray-600'>यह सभी प्रकार के कष्टों और बाधाओं को दूर करता है, साथ ही भगवान विष्णु का आशीर्वाद मिलता है।</p>
         </div>
         </Link>
-        <Link to='/dhanteras'>
+        <Link to='/chalisanavgrah'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./chalisa/3.png" alt="" />
             <p className='text-xl mt-1 font-bold'>नवग्रह चालीसा</p>

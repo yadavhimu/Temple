@@ -33,6 +33,7 @@ import Chalisa from './pages/Chalisa'
 import ScrollToTop from './components/ScrollToTop'
 import Chalisalakshmi from './pages/Chalisalakshmi'
 import Chalisavishnu from './pages/Chalisavishnu'
+import Chalisanavgrah from './pages/Chalisanavgrah'
 
 
 const App = () => {
@@ -71,6 +72,7 @@ const App = () => {
         <Route path='/chalisa' element={<Chalisa/>}/>
         <Route path='/chalisalakshmi' element={<Chalisalakshmi/>}/>
         <Route path='/chalisavishnu' element={<Chalisavishnu/>}/>
+        <Route path='/chalisanavgrah' element={<Chalisanavgrah/>}/>
       </Routes>
       <Footer/>
     </div>
