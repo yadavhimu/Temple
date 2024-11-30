@@ -303,23 +303,49 @@ const Chalisanavgrah = () => {
         <p className="mt-5 text-xl font-medium text-gray-600">
           दीजै शान्ति दया उर धारी॥
         </p>
-        <br/>
+        <br />
         <p className="mt-5 text-xl font-bold text-gray-600">नवग्रह शान्ति फल</p>
-<p className="mt-5 text-xl font-medium text-gray-600">तीरथराज प्रयाग सुपासा।</p>
-<p className="mt-5 text-xl font-medium text-gray-600">बसै राम के सुन्दर दासा॥</p>
-<p className="mt-5 text-xl font-medium text-gray-600">ककरा ग्रामहिं पुरे-तिवारी।</p>
-<p className="mt-5 text-xl font-medium text-gray-600">दुर्वासाश्रम जन दुख हारी॥</p>
-<br/>
-<p className="mt-5 text-xl font-medium text-gray-600">नव-ग्रह शान्ति लिख्यो सुख हेतु।</p>
-<p className="mt-5 text-xl font-medium text-gray-600">जन तन कष्ट उतारण सेतू॥</p>
-<p className="mt-5 text-xl font-medium text-gray-600">जो नित पाठ करै चित लावै।</p>
-<p className="mt-5 text-xl font-medium text-gray-600">सब सुख भोगि परम पद पावै॥</p>
-<br/>
-<p className="mt-5 text-2xl font-bold text-gray-600">॥ नवग्रह चालीसा दोहा ॥</p>
-<p className="mt-5 text-xl font-bold text-gray-600">धन्य नवग्रह देव प्रभु, महिमा अगम अपार।</p>
-<p className="mt-5 text-xl font-bold text-gray-600">चित नव मंगल मोद गृह, जगत जनन सुखद्वार॥</p>
-<p className="mt-5 text-xl font-bold text-gray-600">यह चालीसा नवोग्रह, विरचित सुन्दरदास।</p>
-<p className="mt-5 text-xl font-bold text-gray-600">पढ़त प्रेम सुत बढ़त सुख, सर्वानन्द हुलास॥</p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          तीरथराज प्रयाग सुपासा।
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          बसै राम के सुन्दर दासा॥
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          ककरा ग्रामहिं पुरे-तिवारी।
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          दुर्वासाश्रम जन दुख हारी॥
+        </p>
+        <br />
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          नव-ग्रह शान्ति लिख्यो सुख हेतु।
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          जन तन कष्ट उतारण सेतू॥
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          जो नित पाठ करै चित लावै।
+        </p>
+        <p className="mt-5 text-xl font-medium text-gray-600">
+          सब सुख भोगि परम पद पावै॥
+        </p>
+        <br />
+        <p className="mt-5 text-2xl font-bold text-gray-600">
+          ॥ नवग्रह चालीसा दोहा ॥
+        </p>
+        <p className="mt-5 text-xl font-bold text-gray-600">
+          धन्य नवग्रह देव प्रभु, महिमा अगम अपार।
+        </p>
+        <p className="mt-5 text-xl font-bold text-gray-600">
+          चित नव मंगल मोद गृह, जगत जनन सुखद्वार॥
+        </p>
+        <p className="mt-5 text-xl font-bold text-gray-600">
+          यह चालीसा नवोग्रह, विरचित सुन्दरदास।
+        </p>
+        <p className="mt-5 text-xl font-bold text-gray-600">
+          पढ़त प्रेम सुत बढ़त सुख, सर्वानन्द हुलास॥
+        </p>
       </div>
     </div>
   );

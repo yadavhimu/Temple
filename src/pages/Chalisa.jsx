@@ -31,7 +31,7 @@ const Chalisa = () => {
             <p className='mt-1 text-gray-600'>नवग्रह चालीसा से कुंडली के अशुभ प्रभाव कम होते हैं और सकारात्मक ऊर्जा का संचार होता है।</p>
         </div>
         </Link>
-        <Link to='/diwali'>
+        <Link to='/chalisadurga'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./chalisa/4.png" alt="" />
             <p className='text-xl mt-1 font-bold'>दुर्गा चालीसा</p>

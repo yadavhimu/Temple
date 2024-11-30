@@ -34,6 +34,7 @@ import ScrollToTop from './components/ScrollToTop'
 import Chalisalakshmi from './pages/Chalisalakshmi'
 import Chalisavishnu from './pages/Chalisavishnu'
 import Chalisanavgrah from './pages/Chalisanavgrah'
+import Chalisadurga from './pages/Chalisadurga'
 
 
 const App = () => {
@@ -73,6 +74,7 @@ const App = () => {
         <Route path='/chalisalakshmi' element={<Chalisalakshmi/>}/>
         <Route path='/chalisavishnu' element={<Chalisavishnu/>}/>
         <Route path='/chalisanavgrah' element={<Chalisanavgrah/>}/>
+        <Route path='/chalisadurga' element={<Chalisadurga/>}/>
       </Routes>
       <Footer/>
     </div>
