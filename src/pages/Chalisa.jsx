@@ -38,21 +38,21 @@ const Chalisa = () => {
             <p className='mt-1 text-gray-600'>दुर्गा माता की कृपा से प्राप्त करें शक्ति, शांति और समृद्धि।</p>
         </div>
         </Link>
-        <Link to='/ganesh'>
+        <Link to='/chalisasarshwati'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./chalisa/5.png" alt="" />
             <p className='text-xl mt-1 font-bold'>सरस्वती चालीसा</p>
             <p className='mt-1 text-gray-600'>अपने जीवन में सकारात्मकता और सफलता के लिए इसे नियमित रूप से पढ़ें।</p>
         </div>
         </Link>
-        <Link to='/govardhan'>
+        <Link to='/chalisaganesh'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./chalisa/6.png" alt="" />
             <p className='text-xl mt-1 font-bold'>गणेश चालीसा</p>
             <p className='mt-1 text-gray-600'>यह चालीसा सभी बाधाओं को दूर कर जीवन में सफलता और उन्नति प्रदान करती है।</p>
         </div>
         </Link>
-        <Link to='/hanuman'>
+        <Link to='/chalisakrishan'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./chalisa/7.png" alt="" />
             <p className='text-xl mt-1 font-bold'>कृष्ण चालीसा</p>

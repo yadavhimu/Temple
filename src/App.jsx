@@ -35,6 +35,9 @@ import Chalisalakshmi from './pages/Chalisalakshmi'
 import Chalisavishnu from './pages/Chalisavishnu'
 import Chalisanavgrah from './pages/Chalisanavgrah'
 import Chalisadurga from './pages/Chalisadurga'
+import Chalisasarshwati from './pages/Chalisasarshwati'
+import Chalisaganesh from './pages/Chalisaganesh'
+import Chalisakrishan from './pages/Chalisakrishan'
 
 
 const App = () => {
@@ -75,6 +78,9 @@ const App = () => {
         <Route path='/chalisavishnu' element={<Chalisavishnu/>}/>
         <Route path='/chalisanavgrah' element={<Chalisanavgrah/>}/>
         <Route path='/chalisadurga' element={<Chalisadurga/>}/>
+        <Route path='/chalisasarshwati' element={<Chalisasarshwati/>}/>
+        <Route path='/chalisaganesh' element={<Chalisaganesh/>}/>
+        <Route path='/chalisakrishan' element={<Chalisakrishan/>}/>
       </Routes>
       <Footer/>
     </div>
