@@ -259,7 +259,30 @@ const Chalisakrishan = () => {
           शालिग्राम बने बनवारी॥
         </p>
         <br />
-        
+        <p className="mt-5 text-xl font-medium text-gray-600">निज माया तुम विधिहिं दिखायो।</p>
+<p className="mt-5 text-xl font-medium text-gray-600">उर ते संशय सकल मिटायो॥</p>
+<p className="mt-5 text-xl font-medium text-gray-600">तब शत निन्दा करी तत्काला।</p>
+<p className="mt-5 text-xl font-medium text-gray-600">जीवन मुक्त भयो शिशुपाला॥</p>
+<br/>
+<p className="mt-5 text-xl font-medium text-gray-600">जबहिं द्रौपदी टेर लगाई।</p>
+<p className="mt-5 text-xl font-medium text-gray-600">दीनानाथ लाज अब जाई॥</p>
+<p className="mt-5 text-xl font-medium text-gray-600">तुरतहिं वसन बने ननन्दलाला।</p>
+<p className="mt-5 text-xl font-medium text-gray-600">बढ़े चीर भै अरि मुँह काला॥</p>
+<br/>
+<p className="mt-5 text-xl font-medium text-gray-600">अस नाथ के नाथ कन्हैया।</p>
+<p className="mt-5 text-xl font-medium text-gray-600">डूबत भंवर बचावत नैया॥</p>
+<p className="mt-5 text-xl font-medium text-gray-600">सुन्दरदास आस उर धारी।</p>
+<p className="mt-5 text-xl font-medium text-gray-600">दयादृष्टि कीजै बनवारी॥</p>
+<br/>
+<p className="mt-5 text-xl font-medium text-gray-600">नाथ सकल मम कुमति निवारो।</p>
+<p className="mt-5 text-xl font-medium text-gray-600">क्षमहु बेगि अपराध हमारो॥</p>
+<p className="mt-5 text-xl font-medium text-gray-600">खोलो पट अब दर्शन दीजै।</p>
+<p className="mt-5 text-xl font-medium text-gray-600">बोलो कृष्ण कन्हैया की जै॥</p>
+<br/>
+<p className="mt-5 text-3xl font-bold text-gray-600">॥ कृष्ण चालीसा दोहा ॥</p>
+<br/>
+<p className="mt-5 text-xl font-bold text-gray-600">यह चालीसा कृष्ण का, पाठ करै उर धारि।</p>
+<p className="mt-5 text-xl font-bold text-gray-600">अष्ट सिद्धि नवनिधि फल, लहै पदारथ चारि॥</p>
       </div>
     </div>
   );
