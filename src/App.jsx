@@ -38,6 +38,7 @@ import Chalisadurga from './pages/Chalisadurga'
 import Chalisasarshwati from './pages/Chalisasarshwati'
 import Chalisaganesh from './pages/Chalisaganesh'
 import Chalisakrishan from './pages/Chalisakrishan'
+import Chalisashanidev from './pages/Chalisashanidev'
 
 
 const App = () => {
@@ -81,6 +82,7 @@ const App = () => {
         <Route path='/chalisasarshwati' element={<Chalisasarshwati/>}/>
         <Route path='/chalisaganesh' element={<Chalisaganesh/>}/>
         <Route path='/chalisakrishan' element={<Chalisakrishan/>}/>
+        <Route path='/chalisashanidev' element={<Chalisashanidev/>}/>
       </Routes>
       <Footer/>
     </div>
