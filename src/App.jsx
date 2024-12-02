@@ -44,6 +44,10 @@ import Chalisahanuman from './pages/Chalisahanuman'
 import Chalisaradha from './pages/Chalisaradha'
 import Chalisashiv from './pages/Chalisashiv'
 import Chalisakali from './pages/Chalisakali'
+import Mantra from './pages/Mantra'
+import Mantrachhath from './pages/Mantrachhath'
+import Mantragovardhan from './pages/Mantragovardhan'
+import Mantraganesh from './pages/Mantraganesh'
 
 
 const App = () => {
@@ -80,6 +84,7 @@ const App = () => {
         <Route path='/lakshmi' element={<Lakshmi/>}/>
         <Route path='/shivfast' element={<Shivfast/>}/>
         <Route path='/chalisa' element={<Chalisa/>}/>
+        <Route path='/mantra' element={<Mantra/>}/>
         <Route path='/chalisalakshmi' element={<Chalisalakshmi/>}/>
         <Route path='/chalisavishnu' element={<Chalisavishnu/>}/>
         <Route path='/chalisanavgrah' element={<Chalisanavgrah/>}/>
@@ -93,6 +98,9 @@ const App = () => {
         <Route path='/chalisaradha' element={<Chalisaradha/>}/>
         <Route path='/chalisashiv' element={<Chalisashiv/>}/>
         <Route path='/chalisakali' element={<Chalisakali/>}/>
+        <Route path='/mantrachhath' element={<Mantrachhath/>}/>
+        <Route path='/mantragovardhan' element={<Mantragovardhan/>}/>
+        <Route path='/mantraganesh' element={<Mantraganesh/>}/>
       </Routes>
       <Footer/>
     </div>

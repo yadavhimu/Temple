@@ -46,11 +46,11 @@ const LowerSection = () => {
             
             Here you will find all the powerful mantras for peace of mind.
           </p>
-          <Link to='/' className="cursor-pointer text-orange-600"> Read All</Link>
+          <Link to='/mantra' className="cursor-pointer text-orange-600"> Read All</Link>
 
           </div>
         </div>
-        <div>
+        {/* <div>
           <img className="w-full h-[55%] rounded-md" src="./images/ayurvedic.jpeg" alt="" />
           <div>
           <p className="text-xl font-medium mt-4">Ayurvedic & Remedies</p>
@@ -61,7 +61,7 @@ const LowerSection = () => {
           <Link to='/' className="cursor-pointer text-orange-600"> Read All</Link>
 
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
