@@ -39,6 +39,11 @@ import Chalisasarshwati from './pages/Chalisasarshwati'
 import Chalisaganesh from './pages/Chalisaganesh'
 import Chalisakrishan from './pages/Chalisakrishan'
 import Chalisashanidev from './pages/Chalisashanidev'
+import Chalisasurya from './pages/Chalisasurya'
+import Chalisahanuman from './pages/Chalisahanuman'
+import Chalisaradha from './pages/Chalisaradha'
+import Chalisashiv from './pages/Chalisashiv'
+import Chalisakali from './pages/Chalisakali'
 
 
 const App = () => {
@@ -83,6 +88,11 @@ const App = () => {
         <Route path='/chalisaganesh' element={<Chalisaganesh/>}/>
         <Route path='/chalisakrishan' element={<Chalisakrishan/>}/>
         <Route path='/chalisashanidev' element={<Chalisashanidev/>}/>
+        <Route path='/chalisasurya' element={<Chalisasurya/>}/>
+        <Route path='/chalisahanuman' element={<Chalisahanuman/>}/>
+        <Route path='/chalisaradha' element={<Chalisaradha/>}/>
+        <Route path='/chalisashiv' element={<Chalisashiv/>}/>
+        <Route path='/chalisakali' element={<Chalisakali/>}/>
       </Routes>
       <Footer/>
     </div>

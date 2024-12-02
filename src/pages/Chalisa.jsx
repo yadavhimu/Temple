@@ -68,42 +68,42 @@ const Chalisa = () => {
             <p className='mt-1 text-gray-600'>शनि देव चालीसा जीवन में आने वाली बाधाओं, धन-संपत्ति की कमी, और शारीरिक कष्टों को कम करता है</p>
         </div>
         </Link>
-        <Link to='/bhaidooj'>
+        <Link to='/chalisasurya'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./chalisa/9.png" alt="" />
             <p className='text-xl mt-1 font-bold'>सूर्य देव चालीसा</p>
             <p className='mt-1 text-gray-600'>नियमित रूप से सूर्य देव चालीसा का पाठ करने से जीवन में सुख, सफलता और खुशियों का वास होता है।</p>
         </div>
         </Link>
-        <Link to='/dhanteras'>
+        <Link to='/chalisahanuman'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./chalisa/10.png" alt="" />
             <p className='text-xl mt-1 font-bold'>Hanuman Chalisa</p>
             <p className='mt-1 text-gray-600'>पढ़े श्री हनुमान चालीसा</p>
         </div>
         </Link>
-        <Link to='/diwali'>
+        <Link to='/chalisaradha'>
         <div className='w-[169px]'>
-            <img className='w-[160px] rounded-lg'  src="./chalisa/11.png" alt="" />
-            <p className='text-xl mt-1 font-bold'>साईं बाबा चालीसा</p>
-            <p className='mt-1 text-gray-600'>साईं बाबा की कृपा से जीवन में सुख, समृद्धि, और स्वास्थ्य में सुधार होता है।</p>
+            <img className='w-[160px] rounded-lg'  src="./chalisa/Radhaji.png" alt="" />
+            <p className='text-xl mt-1 font-bold'>राधा चालीसा</p>
+            <p className='mt-1 text-gray-600'>राधा चालीसा का नियमित पाठ करने से मानसिक शांति, जीवन में सकारात्मकता, और आत्मविश्वास में वृद्धि होती है।</p>
         </div>
         </Link>
-        <Link to='/ganesh'>
+        <Link to='/chalisashiv'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./chalisa/12.png" alt="" />
             <p className='text-xl mt-1 font-bold'>शिव चालीसा</p>
             <p className='mt-1 text-gray-600'>जानें शिव चालीसा के पाठ का महत्व, इसके लाभ और कैसे इसे सही विधि से पढ़ना है।</p>
         </div>
         </Link>
-        <Link to='/govardhan'>
+        {/* <Link to='/govardhan'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./chalisa/13.png" alt="" />
             <p className='text-xl mt-1 font-bold'>सरस्वती चालीसा</p>
             <p className='mt-1 text-gray-600'>अपने जीवन में सकारात्मकता और सफलता के लिए इसे नियमित रूप से पढ़ें।</p>
         </div>
-        </Link>
-        <Link to='/hanuman'>
+        </Link> */}
+        <Link to='/chalisakali'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./chalisa/14.png" alt="" />
             <p className='text-xl mt-1 font-bold'>काली माता चालीसा</p>
