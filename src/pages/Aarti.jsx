@@ -3,14 +3,14 @@ import { Link } from "react-router-dom";
 
 const Aarti = () => {
   return (
-    <div className='lg:px-[7vw]'>
-      <div className='w-full relative mt-5 '>
-        <img className='w-full' src="./aarti/Aarti_Banner.jpeg" alt="" />
+    <div className='lg:px-[5vw]'>
+      <div className='w-full relative mt-5 bg-blue-100'>
+        <img className='w-full lg:h-96' src="./aarti/1.jpeg" alt="" />
         <div className=''>
             <p className=' bottom-4 lg:bottom-10 ml-4 lg:ml-20 absolute lg:text-6xl text-white'>आरतियां</p>
         </div>
       </div>
-      <div className=' flex-col lg:grid lg:grid-cols-[1fr_1fr_1fr_1fr_1fr_1fr_1fr] grid grid-cols-[1fr_1fr] lg:gap-3 gap-0 mt-10'>
+      <div className='flex-col lg:grid lg:grid-cols-[1fr_1fr_1fr_1fr_1fr_1fr_1fr] grid grid-cols-[1fr_1fr] lg:gap-3 gap-0 mt-10 overflow-hidden'>
         <Link to='/aambe'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./aarti/Amba.jpeg" alt="" />

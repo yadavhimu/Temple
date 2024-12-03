@@ -1,8 +1,26 @@
 import React from "react";
+import { IoMdPeople } from "react-icons/io";
+import { VscWorkspaceTrusted } from "react-icons/vsc";
+import { MdOutlineTempleHindu } from "react-icons/md";
 
 const MidSection = () => {
   return (
-    <div className="w-full lg:h-[700px]">
+    <div className="w-full lg:h-[800px]">
+      <div className="w-full lg:flex justify-evenly lg:h-20 mt-8 items-center text-2xl text-white font-medium bg-orange-500">
+        <div className="flex items-center gap-2">
+        <IoMdPeople />
+        <p>  Trusted By 1 Million + People </p>
+        </div>
+        <div className="flex items-center gap-2">
+        <VscWorkspaceTrusted />
+        <p>100% Secure</p>
+        </div>
+        <div className="flex items-center gap-2">
+        <MdOutlineTempleHindu />
+        <p>World's Largest Hindu Devotees</p>
+        </div>
+        
+      </div>
       <div>
         <p className="flex justify-center text-2xl lg:text-4xl mt-10 font-bold">
           Puja Seva for you and your loved ones

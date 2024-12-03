@@ -1,15 +1,61 @@
-import React from "react";
-import { IoMdPeople } from "react-icons/io";
-import { VscWorkspaceTrusted } from "react-icons/vsc";
-import { MdOutlineTempleHindu } from "react-icons/md";
+import React, { useState,useEffect } from 'react';
+
 
 const Hero = () => {
+  const slides = [
+
+    {
+      url: "./aarti/kalash.jpg" ,
+    },
+
+    {
+      url: "./aarti/Aarti_Banner.jpg" ,
+    },
+
+    {
+      url: "./images/Temple.jpeg" ,
+    },
+  ];
+
+  const [currentIndex, setCurrentIndex] = useState(0);
+
+  useEffect(() => {
+		const interval = setInterval(() => {
+			setCurrentIndex((prevIndex) =>
+				prevIndex === slides.length - 1 ? 0 : prevIndex + 1
+			);
+		}, 2000);
+		return () => clearInterval(interval);
+	}, [currentIndex, slides.length]);
+
+
+  const goToSlide = (slideIndex) => {
+    setCurrentIndex(slideIndex);
+  };
+
   return (
-    <div>
-      <div className="w-full relative">
+    <div  className=' h-[160px] md:h-[250px]  lg:h-[600px]  relative group'>
+       <div
+        style={{ backgroundImage: `url(${slides[currentIndex].url})` }}
+        className='sm:w-full h-full bg-center bg-cover duration-1000'
+      ></div>
+     
+      <div className='flex top-4 justify-center py-2'>
+        {slides.map((slide, slideIndex) => (
+          <div
+            key={slideIndex}
+            onClick={() => goToSlide(slideIndex)}
+            className='text-2xl cursor-pointer'
+          >
+          </div>
+        ))}
+        
+      </div>
+
+      {/* <div className="w-full relative">
         <img
           className="w-full lg:h-[600px] opacity-75"
-          src="./images/Temple.jpeg"
+          src="./aarti/kalash.jpg"
           alt=""
         />
         <div className="absolute top-14 left-40 lg:left-[700px] lg:top-52  lg:w-[600px] font-medium">
@@ -21,22 +67,9 @@ const Hero = () => {
           </p>
           <button className="lg:w-40 mt-5 lg:text-2xl lg:font-semibold border-orange-600 border-2 text-white bg-orange-500 rounded-md lg:h-14 ">Book Now</button>
         </div>
-      </div>
-      <div className="lg:flex justify-evenly lg:h-20 mt-8 items-center text-2xl text-white font-medium bg-orange-500">
-        <div className="flex items-center gap-2">
-        <IoMdPeople />
-        <p>  Trusted By 1 Million + People </p>
-        </div>
-        <div className="flex items-center gap-2">
-        <VscWorkspaceTrusted />
-        <p>100% Secure</p>
-        </div>
-        <div className="flex items-center gap-2">
-        <MdOutlineTempleHindu />
-        <p>World's Largest Hindu Devotees</p>
-        </div>
-        
-      </div>
+      </div> */}
+
+      
     </div>
   );
 };

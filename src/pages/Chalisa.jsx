@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from "react-router-dom";
 const Chalisa = () => {
   return (
-    <div className='lg:px-[7vw]'>
+    <div className='lg:px-[5vw]'>
       <div className='w-full relative mt-5 '>
         <img className='w-full' src="./chalisa/Chalisa_banner.jpeg" alt="" />
         <div className=''>

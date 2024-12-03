@@ -4,7 +4,6 @@ import Home from './pages/Home'
 import Navbar from './components/Navbar'
 import Puja from './pages/Puja'
 import Temple from './pages/Temple'
-import Library from './pages/Library'
 import Footer from './components/Footer'
 import PremMandir from './pages/PremMandir'
 import BankeBihari from './pages/BankeBihari'
@@ -52,6 +51,7 @@ import Mantravishnu from './pages/Mantravishnu'
 import Mantrashiv from './pages/Mantrashiv'
 import Mantradurga from './pages/Mantradurga'
 import Mantralakshmi from './pages/Mantralakshmi'
+import Contact from './pages/Contact'
 
 
 const App = () => {
@@ -63,7 +63,7 @@ const App = () => {
         <Route path='/' element={<Home/>}/>
         <Route path='/puja' element={<Puja/>}/>
         <Route path='/temple' element={<Temple/>}/>
-        <Route path='/library' element={<Library/>}/>
+        <Route path='/contact' element={<Contact/>}/>
         <Route path='/premmandir' element={<PremMandir/>}/>
         <Route path='/bankebihari' element={<BankeBihari/>}/>
         <Route path='/kalabhairav' element={<Kalabhairav/>}/>

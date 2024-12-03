@@ -35,7 +35,7 @@ const Navbar = () => {
             <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
           </NavLink>
           <NavLink
-            to="/library"
+            to="/contact"
             className="flex flex-col items-center gap-1 hover:text-orange-600"
           >
             <p>Contact</p>
@@ -96,7 +96,7 @@ const Navbar = () => {
             <NavLink
               onClick={() => setVisible(false)}
               className="py-2 pl-6 border"
-              to="/library"
+              to="/contact"
             >
               Contact
             </NavLink>
