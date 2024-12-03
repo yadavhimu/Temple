@@ -52,7 +52,7 @@ import Mantraganesh from './pages/Mantraganesh'
 
 const App = () => {
   return (
-    <div className='px-4 sm:px-[5vw] md:px-[7vw] lg:px-[2vw]'>
+    <div className='px-4 sm:px-[5vw] md:px-[7vw] lg:px-[4vw]'>
       <ScrollToTop/>
       <Navbar/>
       <Routes>

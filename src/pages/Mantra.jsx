@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Mantra = () => {
   return (
-    <div className='lg:px-[7vw]'>
+    <div className='lg:px-[vw]'>
       <div className='w-full relative mt-5 '>
         <img className='w-full' src="./Mantra/Mantra_banner.png" alt="" />
         <div className=''>

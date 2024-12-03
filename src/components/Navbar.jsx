@@ -6,13 +6,13 @@ const Navbar = () => {
   const [visible, setVisible] = useState(false);
 
   return (
-    <div>
-      <div className="flex items-center justify-between py-5 font-medium ">
+    <div >
+      <div className="bg-blue-100 flex items-center justify-between py-5 font-medium ">
         <Link to="/">
           <h1 className="text-orange-600 font-bold text-3xl">Mandir</h1>{" "}
         </Link>
         {/* <link to='/' <img src={assets.logo} className='w-36' alt=""/> </Link> */}
-        <ul className="hidden sm:flex gap-5 text-lg text-gray-700">
+        <ul className="hidden sm:flex gap-5 text-2xl text-gray-700">
           <NavLink
             to="/"
             className="flex flex-col items-center gap-1 hover:text-orange-600"
@@ -38,7 +38,7 @@ const Navbar = () => {
             to="/library"
             className="flex flex-col items-center gap-1 hover:text-orange-600"
           >
-            <p>Library</p>
+            <p>Contact</p>
             <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
           </NavLink>
         </ul>
@@ -47,9 +47,6 @@ const Navbar = () => {
           <button className="border-2 border-gray-400 w-20 h-8 text-gray-500 rounded-lg">
             English
           </button>
-          {/* <button className="border-2 border-gray-400 w-20 h-8 rounded-lg  bg-orange-600 text-white">
-            Login
-          </button> */}
           <img
             onClick={() => setVisible(true)}
             src="./images/menu_icon.png"
@@ -101,7 +98,7 @@ const Navbar = () => {
               className="py-2 pl-6 border"
               to="/library"
             >
-              Library
+              Contact
             </NavLink>
           </div>
         </div>
