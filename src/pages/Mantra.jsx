@@ -32,28 +32,28 @@ const Mantra = () => {
             <p className='mt-1 text-gray-600'>जानिए इन मंत्रों के अर्थ और लाभ जो आपके जीवन में सुख, समृद्धि, और शांति लाने में सहायक हैं।</p>
         </div>
         </Link>
-        <Link to='/chalisadurga'>
+        <Link to='/mantravishnu'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./Mantra/4.jpeg" alt="" />
             <p className='text-xl mt-1 font-bold'>भगवान श्री विष्णु के मंत्र</p>
             <p className='mt-1 text-gray-600'>पढ़ें भगवान श्री विष्णु के मंत्र: अर्थ और लाभ</p>
         </div>
         </Link>
-        <Link to='/chalisasarshwati'>
+        <Link to='/mantrashiv'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./Mantra/5.jpeg" alt="" />
             <p className='text-xl mt-1 font-bold'>भगवान शिव के मंत्र</p>
             <p className='mt-1 text-gray-600'>इन मंत्रों का उच्चारण करने से जीवन में शांति, शक्ति, और सफलता प्राप्त होती है।</p>
         </div>
         </Link>
-        <Link to='/chalisaganesh'>
+        <Link to='/mantradurga'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./Mantra/6.jpeg" alt="" />
             <p className='text-xl mt-1 font-bold'>मां दुर्गा के शक्तिशाली मंत्र</p>
             <p className='mt-1 text-gray-600'>देवी दुर्गा के इन शक्तिशाली मंत्रों से पाएं अद्भुत शक्ति, सुरक्षा और जीवन में सुख-समृद्धि।</p>
         </div>
         </Link>
-        <Link to='/chalisakrishan'>
+        <Link to='/mantralakshmi'>
         <div className='w-[169px]'>
             <img className='w-[160px] rounded-lg'  src="./Mantra/7.jpeg" alt="" />
             <p className='text-xl mt-1 font-bold'>लक्ष्मी माता के मंत्र</p>

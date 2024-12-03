@@ -7,7 +7,7 @@ const Navbar = () => {
 
   return (
     <div >
-      <div className="bg-blue-100 flex items-center justify-between py-5 font-medium ">
+      <div className=" flex items-center justify-between py-5 font-medium ">
         <Link to="/">
           <h1 className="text-orange-600 font-bold text-3xl">Mandir</h1>{" "}
         </Link>

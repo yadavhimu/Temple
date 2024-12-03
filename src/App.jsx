@@ -48,6 +48,10 @@ import Mantra from './pages/Mantra'
 import Mantrachhath from './pages/Mantrachhath'
 import Mantragovardhan from './pages/Mantragovardhan'
 import Mantraganesh from './pages/Mantraganesh'
+import Mantravishnu from './pages/Mantravishnu'
+import Mantrashiv from './pages/Mantrashiv'
+import Mantradurga from './pages/Mantradurga'
+import Mantralakshmi from './pages/Mantralakshmi'
 
 
 const App = () => {
@@ -101,6 +105,10 @@ const App = () => {
         <Route path='/mantrachhath' element={<Mantrachhath/>}/>
         <Route path='/mantragovardhan' element={<Mantragovardhan/>}/>
         <Route path='/mantraganesh' element={<Mantraganesh/>}/>
+        <Route path='/mantravishnu' element={<Mantravishnu/>}/>
+        <Route path='/mantrashiv' element={<Mantrashiv/>}/>
+        <Route path='/mantradurga' element={<Mantradurga/>}/>
+        <Route path='/mantralakshmi' element={<Mantralakshmi/>}/>
       </Routes>
       <Footer/>
     </div>
