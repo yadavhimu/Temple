@@ -12,9 +12,9 @@ const Hero = () => {
       url: "./aarti/Aarti_Banner.jpg" ,
     },
 
-    {
-      url: "./images/Temple.jpeg" ,
-    },
+    // {
+    //   url: "./images/Temple.jpeg" ,
+    // },
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);

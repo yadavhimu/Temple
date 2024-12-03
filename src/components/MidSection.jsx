@@ -2,6 +2,7 @@ import React from "react";
 import { IoMdPeople } from "react-icons/io";
 import { VscWorkspaceTrusted } from "react-icons/vsc";
 import { MdOutlineTempleHindu } from "react-icons/md";
+import { Link } from "react-router-dom";
 
 const MidSection = () => {
   return (
@@ -47,10 +48,11 @@ const MidSection = () => {
           <p className="text-xl mt-3 text-gray-500">
             For Overcoming Negative Effects of Kaal Sarp and Rahu-Ketu Doshas
           </p>
-          <button className="w-full rounded-md bg-green-600 mt-5 h-10 text-xl text-white font-medium">
+          <Link to='/contact'><button className="w-full rounded-md bg-green-600 mt-5 h-10 text-xl text-white font-medium">
             {" "}
-            Participate
+            Book Now
           </button>
+          </Link>
         </div>
         <div className="lg:w-[33%] mt-5 ">
           <img
@@ -64,10 +66,11 @@ const MidSection = () => {
           <p className="text-xl mt-3 text-gray-500">
             For Protection from Adversities and Ill Health
           </p>
-          <button className="w-full rounded-md bg-green-600 mt-12 h-10 text-xl text-white font-medium">
+          <Link to='/contact'><button className="w-full rounded-md bg-green-600 mt-12 h-10 text-xl text-white font-medium">
             {" "}
-            Participate
+            Book Now
           </button>
+          </Link>
         </div>
         <div className="lg:w-[33%]  mt-5">
           <img
@@ -81,10 +84,11 @@ const MidSection = () => {
           <p className="text-xl mt-3 text-gray-500">
             For Fulfilment of all Desires and Protection from Adversities
           </p>
-          <button className="w-full rounded-md bg-green-600 mt-5 h-10 text-xl text-white font-medium">
+          <Link to='/contact'><button className="w-full rounded-md bg-green-600 mt-5 h-10 text-xl text-white font-medium">
             {" "}
-            Participate
+            Book Now
           </button>
+          </Link>
         </div>
       </div>
     </div>
