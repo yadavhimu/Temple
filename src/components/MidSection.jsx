@@ -87,6 +87,7 @@ const MidSection = () => {
           <Link to='/contact'><button className="w-full rounded-md bg-green-600 mt-5 h-10 text-xl text-white font-medium">
             {" "}
             Book Now
+            
           </button>
           </Link>
         </div>
