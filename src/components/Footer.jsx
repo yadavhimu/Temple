@@ -28,8 +28,8 @@ const Footer = () => {
             <Link to={"temple"}>
               <li className="text-md">Temple</li>
             </Link>
-            <Link to={"library"}>
-              <li className="text-md">Library</li>
+            <Link to={"contact"}>
+              <li className="text-md">Contact Us</li>
             </Link>
           </ul>
         </div>
